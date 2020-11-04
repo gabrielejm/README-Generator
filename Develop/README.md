@@ -1,4 +1,4 @@
-# Project Test
+# Project Title
 
 ## Table of Contents
 
@@ -13,25 +13,31 @@
 
 ### Description<a name="description"></a>
 
-ads
+In this app, I do lots and lots of stuff
 
 ### Installation<a name="installation"></a>
 
-f
+Click on a few things, then click on some more things.
 
 ### Usage<a name="usage"></a>
 
-asdf
+Press this button then that button, then click on that thing.
 
 ### Contributing<a name="contributing"></a>
 
-asdf
+I made this app by my myself.
 
 ### Tests<a name="tests"></a>
 
-asf
+click some stuff, type some stuff, and wait
 
-### Questions<a name="questions"></a>
+### Questions?<a name="questions"></a>
+
+Have some questions? Contact me at:
+
+Github: gabrielejm
+
+Email: gabrielejustin@yahoo.com
 
 ### License<a name="license"></a>
 

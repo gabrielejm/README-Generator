@@ -33,7 +33,13 @@ ${data.contribution}
 
 ${data.test}
 
-### Questions<a name="questions"></a>
+### Questions?<a name="questions"></a>
+
+Have some questions? Contact me at:
+
+Github: ${data.github}
+
+Email: ${data.email}
 
 ### License<a name="license"></a>
 
