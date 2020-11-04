@@ -69,8 +69,9 @@ function writeToFile(fileName, data) {
 // function to initialize program
 function init() {
   inquirer.prompt(questions).then(function (data) {
+    var filename = data.title.toLowerCase().split(" ").join("") + ".md";
     console.log(data);
-    writeToFile("README.md", data);
+    writeToFile(filename, data);
   });
 }
 

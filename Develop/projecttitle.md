@@ -13,31 +13,31 @@
 
 ### Description<a name="description"></a>
 
-In this app, I do lots and lots of stuff
+as
 
 ### Installation<a name="installation"></a>
 
-Click on a few things, then click on some more things.
+dfa
 
 ### Usage<a name="usage"></a>
 
-Press this button then that button, then click on that thing.
+sfa
 
 ### Contributing<a name="contributing"></a>
 
-I made this app by my myself.
+fa
 
 ### Tests<a name="tests"></a>
 
-click some stuff, type some stuff, and wait
+sdf
 
 ### Questions?<a name="questions"></a>
 
 Have some questions? Contact me at:
 
-Github: gabrielejm
+Github: adsf
 
-Email: gabrielejustin@yahoo.com
+Email: 
 
 ### License<a name="license"></a>
 
