@@ -1,4 +1,4 @@
-# Project Title
+# Project title
 
 ## Table of Contents
 
@@ -13,31 +13,31 @@
 
 ### Description<a name="description"></a>
 
-as
+sadf
 
 ### Installation<a name="installation"></a>
 
-dfa
+adsf
 
 ### Usage<a name="usage"></a>
 
-sfa
+f
 
 ### Contributing<a name="contributing"></a>
 
-fa
+dsa
 
 ### Tests<a name="tests"></a>
 
-sdf
+adsf
 
 ### Questions?<a name="questions"></a>
 
 Have some questions? Contact me at:
 
-Github: adsf
+Github: [gabrielejm](https://github.com/gabrielejm)
 
-Email: 
+Email: gabrielejustin@yahoo.com
 
 ### License<a name="license"></a>
 

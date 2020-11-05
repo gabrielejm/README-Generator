@@ -49,27 +49,23 @@ const questions = [
     type: "list",
     message: "License:",
     name: "license",
-    choices: ["License 1", "License 2", "License 3"],
+    choices: [
+      "Github license[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)",
+    ],
   },
 ];
 
 // function to write README file
 function writeToFile(fileName, data) {
-  var output = generateMarkdown(data);
+  let output = generateMarkdown(data);
   console.log(output);
   fs.writeFileSync(fileName, output);
-  // fs.writeFile(fileName, output, function (err) {
-  //   if (err) {
-  //     console.log(err);
-  //   }
-  //   console.log("done writing file");
-  // });
 }
 
 // function to initialize program
 function init() {
   inquirer.prompt(questions).then(function (data) {
-    var filename = data.title.toLowerCase().split(" ").join("") + ".md";
+    let filename = data.title.toLowerCase().split(" ").join("") + ".md";
     console.log(data);
     writeToFile(filename, data);
   });

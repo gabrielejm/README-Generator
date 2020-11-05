@@ -37,7 +37,7 @@ ${data.test}
 
 Have some questions? Contact me at:
 
-Github: ${data.github}
+Github: [${data.github}](https://github.com/${data.github})
 
 Email: ${data.email}
 
