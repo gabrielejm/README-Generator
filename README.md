@@ -15,21 +15,13 @@
 
 A README generator that will accept input from the user and create a professional README file. This README was created using this app!
 
-### Installation<a name="installation"></a>
-
-
-
 ### Usage<a name="usage"></a>
 
-
+Open your terminal in the /Develop directory and run node index.js. Answer the prompts, then a README will be created.
 
 ### Contributing<a name="contributing"></a>
 
 Justin Gabriele
-
-### Tests<a name="tests"></a>
-
-
 
 ### License<a name="license"></a>
 
