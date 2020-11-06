@@ -18,6 +18,8 @@ A README generator that will accept input from the user and create a professiona
 
 Open your terminal in the /Develop directory and run node index.js. Answer the prompts, then a README will be created.
 
+<iframe src="https://drive.google.com/file/d/1fhS9kzTlrW7omEPK3V1S7cSq7k7BLgAv/preview" width="640" height="480"></iframe>
+
 ### Contributing<a name="contributing"></a>
 
 Justin Gabriele
