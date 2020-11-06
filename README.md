@@ -3,12 +3,11 @@
 ## Table of Contents
 
 1. [Description](#description)
-2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Contributing](#contributing)
-5. [Tests](#tests)
-6. [Questions](#questions)
-7. [License](#license)
+2. [Usage](#usage)
+3. [Contributing](#contributing)
+4. [License](#license)
+5. [Questions](#questions)
+
 
 
 ### Description<a name="description"></a>
