@@ -51,6 +51,10 @@ ${data.contribution}
 
 ${data.test}
 
+### License<a name="license"></a>
+
+${renderBadges(data.license)}
+
 ### Questions?<a name="questions"></a>
 
 Have some questions? Contact me at:
@@ -58,10 +62,6 @@ Have some questions? Contact me at:
 Github: [${data.github}](https://github.com/${data.github})
 
 Email: ${data.email}
-
-### License<a name="license"></a>
-
-${renderBadges(data.license)}
 
 `;
 }
