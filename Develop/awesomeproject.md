@@ -1,4 +1,4 @@
-# Project title
+# Awesome Project
 
 ## Table of Contents
 
@@ -13,23 +13,23 @@
 
 ### Description<a name="description"></a>
 
-sadf
+ads
 
 ### Installation<a name="installation"></a>
 
-adsf
+fadf
 
 ### Usage<a name="usage"></a>
 
-f
+adf
 
 ### Contributing<a name="contributing"></a>
 
-dsa
+asdf
 
 ### Tests<a name="tests"></a>
 
-adsf
+aaa
 
 ### Questions?<a name="questions"></a>
 
@@ -40,4 +40,6 @@ Github: [gabrielejm](https://github.com/gabrielejm)
 Email: gabrielejustin@yahoo.com
 
 ### License<a name="license"></a>
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 

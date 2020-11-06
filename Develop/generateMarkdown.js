@@ -1,4 +1,21 @@
 // function to generate markdown for README
+const badgeMIT =
+  "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)";
+
+const badgeISC =
+  "[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)";
+
+const badgeIBM =
+  "[![License: IPL 1.0](https://img.shields.io/badge/License-IPL%201.0-blue.svg)](https://opensource.org/licenses/IPL-1.0)";
+const renderBadges = (badge) => {
+  if (badge === "MIT") {
+    return badgeMIT;
+  } else if (badge === "ISC") {
+    return badgeISC;
+  } else {
+    return badgeIBM;
+  }
+};
 
 function generateMarkdown(data) {
   return `# ${data.title}
@@ -44,7 +61,7 @@ Email: ${data.email}
 
 ### License<a name="license"></a>
 
-
+${renderBadges(data.license)}
 
 `;
 }
